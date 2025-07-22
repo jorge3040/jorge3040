@@ -1,12 +1,12 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Jorge Rossell - Full Stack Developer
 
-<h3 align="center">💻 Especialista en JavaScript | 📱 Desarrollador Android | 🛠️ Ingeniero de Software</h3>
+<h3 align="center">💻 DESARROLLADOR Y DISEÑADOR FULL STACK ESPECIALIZADO EN SOFTERE Y PAGINAS WEB</h3>
 
 <div align="center">
   
 [![Email](https://img.shields.io/badge/jorgerossellpestano18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgerossellpestano18@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/Chat_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584241234567?text=Hola%20Jorge,%20vi%20tu%20perfil%20GitHub)
-[![Portfolio](https://img.shields.io/badge/Ver_Portafolio-6E48AA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jorgerossell.dev)
+[![WhatsApp](https://img.shields.io/badge/Chat_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Ver_Portafolio-6E48AA?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 </div>
 
@@ -143,8 +143,8 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Profesional-jorgerossellpestano18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgerossellpestano18@gmail.com?subject=Consulta%20Técnica)
-[![WhatsApp](https://img.shields.io/badge/Chat_Technical-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584241234567?text=Hola%20Jorge,%20tengo%20una%20consulta%20técnica)
-[![LinkedIn](https://img.shields.io/badge/Perfil_Técnico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgerossell)
+[![WhatsApp](https://img.shields.io/badge/Chat_Technical-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/Perfil_Técnico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 </div>
 
